@@ -1,0 +1,17 @@
+## Knowladge Types
+
+**Declarative Knowladge: i**s statements of a fact
+
+**Imperative Knowledge:** Is a recipe (sequence of steps)
+
+![image.png](attachment:a4deda52-2576-4c94-bfe3-376e6a38e640:image.png)
+
+## Objects
+
+- **Scalar objects:** Cannot be subdivided. Ex: ****Integers, Floats, Booleans, NoneType (None) …
+
+           obs: function type() - discover type of the object
+
+                   convert: int(object); str(object)
+
+- **Non-Scalar:** Have internal structure that can be accessed. Ex: Variables, Lists …
